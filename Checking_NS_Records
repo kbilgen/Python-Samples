@@ -1,4 +1,4 @@
-#Querying DNS Servers with Python - Checking NS Records
+#Querying DNS Servers with Python - Checking NS Records...
 
 import requests
 import dns.resolver
